@@ -1,0 +1,93 @@
+[{
+    "type":"primary",
+    "mail":[{
+        "name":"Meghna",
+        "subject":"knowastro.com Daily Horoscope",
+        "content":"Hi Meghna ,Your Knowastro.com Daily Overview Horoscope - August 30, 2018",
+        "time":"7:40 am"
+    },
+    {  "name":"Rahul",
+        "subject":"CIBIL Score",
+        "content":"Hi Rahul, Is your credit score between 300 and 900? Check today!",
+        "time":"8:40 am"
+    },
+    {
+        "name":"Sunidhi",
+        "subject":"knowastro.com Daily Horoscope",
+        "content":"Hi Sunidhi ,Your Knowastro.com Daily Overview Horoscope - August 30, 2018",
+        "time":"9:40 am"
+    },
+    {
+        "name":"Gaurav",
+        "subject":"CIBIL Score",
+        "content":"Hi Gaurav, Is your credit score between 300 and 900? Check today!",
+        "time":"7:00 am"
+    }
+
+    ]
+    
+   
+    
+},
+{
+
+    "type":"social",
+    "mail":[{
+        "name":"Neha",
+        "subject":"knowastro.com Daily Horoscope",
+        "content":"Hi Neha ,Your Knowastro.com Daily Overview Horoscope - August 30, 2018",
+        "time":"7:09 am"
+    },
+    {  "name":"Manju",
+        "subject":"CIBIL Score",
+        "content":"Hi Manju, Is your credit score between 300 and 900? Check today!",
+        "time":"7:06 am"
+    },
+    {
+        "name":"Kunal",
+        "subject":"knowastro.com Daily Horoscope",
+        "content":"Hi Kunal ,Your Knowastro.com Daily Overview Horoscope - August 30, 2018",
+        "time":"7:20 am"
+    },
+    {
+        "name":"Raghav",
+        "subject":"CIBIL Score",
+        "content":"Hi Raghav, Is your credit score between 300 and 900? Check today!",
+        "time":"7:40 am"
+    }
+
+    ]
+    
+
+},
+{
+
+    "type":"promotional",
+    "mail":[{
+        "name":"Kunal",
+        "subject":"knowastro.com Daily Horoscope",
+        "content":"Hi Kunal ,Your Knowastro.com Daily Overview Horoscope - August 30, 2018",
+        "time":"2:40 am"
+    },
+    {  "name":"Rohit",
+        "subject":"CIBIL Score",
+        "content":"Hi Rohit, Is your credit score between 300 and 900? Check today!",
+        "time":"6:40 am"
+    },
+    {
+        "name":"Abhi",
+        "subject":"knowastro.com Daily Horoscope",
+        "content":"Hi Abhi ,Your Knowastro.com Daily Overview Horoscope - August 30, 2018",
+        "time":"3:40 am"
+    },
+    {
+        "name":"Himanshu",
+        "subject":"CIBIL Score",
+        "content":"Hi Himanshu, Is your credit score between 300 and 900? Check today!",
+        "time":"9:40 am"
+    }
+
+    ]
+    
+}
+ ]
